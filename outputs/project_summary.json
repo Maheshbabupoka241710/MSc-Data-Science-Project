@@ -1,0 +1,13 @@
+{
+  "best_model": "XGBoost",
+  "best_test_rmse_aud": 13700.5455,
+  "best_test_mae_aud": 5070.0053,
+  "best_test_r2_aud": 0.842,
+  "best_cv_rmse_log": 0.2173,
+  "best_cv_mae_log": 0.1488,
+  "best_cv_r2_log": 0.897,
+  "n_models_evaluated": 6,
+  "cv_folds": 5,
+  "test_size": 0.2,
+  "random_state": 42
+}

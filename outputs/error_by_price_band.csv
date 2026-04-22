@@ -1,0 +1,4 @@
+price_band,n,MAE_AUD,RMSE_AUD,median_abs_error,mean_pct_error,mean_signed_pct_error
+Low,1102,2230.56,3172.17,1658.65,16.85,-8.62
+Mid,1101,2967.42,4091.5,2211.12,10.1,-0.13
+High,1134,9870.72,22941.75,4996.01,12.34,3.74

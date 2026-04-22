@@ -1,0 +1,30 @@
+{
+  "random_state": 42,
+  "dataset_shape_after_cleaning": [
+    16681,
+    20
+  ],
+  "train_shape": [
+    13344,
+    19
+  ],
+  "test_shape": [
+    3337,
+    19
+  ],
+  "target_column": "Price",
+  "best_model_on_test": "XGBoost",
+  "save_figures_enabled": true,
+  "cv_folds": 5,
+  "test_size": 0.2,
+  "n_jobs": -1,
+  "library_versions": {
+    "python": "3.13.5",
+    "numpy": "2.3.4",
+    "pandas": "2.3.3",
+    "matplotlib": "3.10.7",
+    "sklearn": "1.7.2",
+    "seaborn": "0.13.2",
+    "xgboost": "installed"
+  }
+}
